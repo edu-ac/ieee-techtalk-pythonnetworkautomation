@@ -1,5 +1,5 @@
 ## IEEE Comsoc Perú Tech Talk:
-## Python for Multivendor Network Automation (August 27th 2022)
+## Python for Multivendor Network Automation (August 17th 2022)
 
 ### "Show/Exec" commands
 **exec00.py** is a simple script that uses Netmiko to do "show/exec" commands in a single network device.
